@@ -37,18 +37,18 @@
   <li><a href="#license"> License </a></li>
 </ul>
 
-<h3> Features </h3>
+<h3>Features</h3>
 
-<h3> Installation </h3>
+<h3>Installation</h3>
 
-<h4> Prerequisites </h4>
+<h4>Prerequisites</h4>
 
-<h4> Download </h4>
+<h4>Download</h4>
 
-<h4> Setup </h4>
+<h4>Setup</h4>
 
-<h3> Guides </h3>
+<h3Guides</h3>
 
-<h3> Help </h3>
+<h3>Help</h3>
 
-<h3> License </h3>
+<h3>License</h3>
