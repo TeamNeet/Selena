@@ -47,7 +47,7 @@
 
 <h4>Setup</h4>
 
-<h3Guides</h3>
+<h3>Guides</h3>
 
 <h3>Help</h3>
 
