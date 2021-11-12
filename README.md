@@ -1,6 +1,6 @@
 <p>
   <a href="https://github.com/TeamNeet/Selena" target="_blank">
-    <img src="assets/readme.png" alt="Logo" />
+    <img src="src/assets/readme.png" alt="Logo" />
   </a>
 
   <h3 align="center"> 💠 Selena 💠 </h3>
@@ -18,7 +18,7 @@
   </p>
 </p>
 
-<img src="assets/selena.png" align="right" width="100" height="100" />
+<img src="src/assets/selena.png" align="right" width="100" height="100" />
 <h3> About </h3>
 <p> Selena is the web-application for the <a href="https://neet.kurasad.dev"><code>4M@</code></a> project. Built with React.JS and SCSS. <a href="https://neet.kurasad.dev"><code>4M@</code></a> is an open-source text editor with syntax highlighting for your coding needs. </p>
 
